@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: yellow;
+    background-color: f7df1e;
 }
 
 .card {
@@ -25,8 +25,7 @@ body {
 }
 
 img {
-    height: 64px;
-    width: 64px;
+    border-radius: 8px;
     margin-bottom: -15px;
 }
 
