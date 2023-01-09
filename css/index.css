@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f7df1e;
+    background-color: #111111;
 }
 
 .card {
@@ -14,14 +14,13 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #ffffff;
+    background-color: #222222;
     padding: 20px 24px;
     border-radius: 8px;
 }
 
 .content {
-    color: #000000;
-    background-color: #ffffff;
+    color: #ffffff;
 }
 
 img {
